@@ -7,5 +7,5 @@
   actions:
   - action: "Build Docker image"
     type: "DOCKERFILE"
-    dockerfile_path: ""
+    dockerfile_path: "Dockerfile.txt"
     do_not_prune_images: true
